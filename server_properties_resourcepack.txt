@@ -1,0 +1,4 @@
+resource-pack=https://raw.githubusercontent.com/ekarose0/Minecraft-Modpack-Translate/master/FTB_Evolution_2_KR_3rd%20Edition.zip
+resource-pack-id=36e8a0b3-8404-4891-a276-d0da31c744b1
+resource-pack-prompt={"text":"\uC774 \uC11C\uBC84\uB294 \uAC00\uC774\uB4DC \uD55C\uAE00\uBC88\uC5ED \uB9AC\uC18C\uC2A4\uD329\uC774 \uC788\uC5B4\uC694! \uBC1B\uC744\uB798\uC694?","color":"aqua"}
+resource-pack-sha1=6a9feb3d456246c2d8691626013d9d74f0ff429e
